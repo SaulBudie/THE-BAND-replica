@@ -1,0 +1,178 @@
+.div1{
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+.Images{
+    display: flex;
+    justify-content: center;
+}
+.TheMiddleText{
+
+    flex-direction: column;
+    align-items: center;
+}
+.haveapadding{
+    padding: 2px;
+}
+.text1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+.text2{
+    
+    color: gray;
+}
+.text3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    text-align: justify;
+}
+.text4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+.images2{
+    height: 20px;
+}
+.TheBiggestDiv{
+    display: flex;
+    justify-content: center;
+}
+.TourDates{
+    height: 800px; 
+    width: 80%; 
+    background-color: black;
+}
+.haveapadding2{
+    display: flex;
+    padding: 20px; 
+    flex-direction: column;
+    align-items: center;
+    width: 33.33%;
+}
+.TourDateDiv{
+    
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.ElegantText1{
+    color: white;
+}
+.ElegantText2{
+    color: white;
+}
+.ListOfMonths{
+    padding: 5px;
+    flex-direction: column;
+    background-color: white;
+    width: 45%;
+}
+.M0{
+    
+    align-items: center;
+}
+.M1{ 
+    border-top: 1px solid rgb(203, 198, 198);
+    align-items: center;
+}
+.M2{
+     
+    border-top: 1px solid rgb(203, 198, 198);
+    align-items: center;
+    
+    justify-content: space-between;
+}
+.text5{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    display: flex;
+    width: 8.75%;
+}
+.Soldout{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300; 
+    text-align: center;
+    padding-top: 30px;
+    height: 50%;
+    color: white;
+    background-color: red;
+    padding: 5px;
+}
+.specialthing{
+    color: white;
+    padding: 5px;
+    border-radius: 50%;
+    background-color: black;
+    width: 20px;
+    text-align: center;
+    margin-right: 20px;
+}
+.threethings{
+     padding: 60px;
+    width: 45%;
+    justify-content: space-between;
+    display: flex;
+}
+.thetags{ 
+    width: 30%;
+    flex-direction: column;
+    display: flex;height: 100%;
+    align-items: center;
+    background-color: white;
+}
+.images3{
+    width: 100%;
+    transition: 0.35s;
+}
+.images3:hover{
+    width: 95%;
+}
+.devourer{
+    padding: 7px;
+}
+.TagInner1{
+padding: 2px;
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 900;
+}
+.TagInner2{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200;
+}
+.TagInner3{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+} 
+.ButtonThing{
+    padding: 5px;
+    background-color: black;
+    color: white;
+    width: 40%;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    transition: 0.35s;
+    text-align: center;
+}
+.ButtonThing:hover{
+    width: 38%;
+    padding-top: 6px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 250;
+    background-color: lightgray;
+    color: black;
+    padding-bottom: 7px;
+}
